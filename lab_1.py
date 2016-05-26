@@ -65,15 +65,3 @@ for i in range(n):
     plt.plot(list(range(t)), W[i])
 
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
