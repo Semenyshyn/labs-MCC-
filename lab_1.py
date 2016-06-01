@@ -42,8 +42,8 @@ print('Matrix : ', Matrix)
 print('V :', V)
 
 
-t = 30
-W = [[0 for x in range(t)] for y in range(n)]
+t = 300
+W = [[0 for c in range(t)] for z in range(n)]
 for i in range(t):
     for o in range(n):
         U = V[o]
